@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claudian 本地模型安装器"
+  short_description: "配置 CCSwitch 主模型和 Ollama 专业模型 MCP"
+  default_prompt: "使用 $setup-claudian-local-models 为 Claudian 配置可切换的本地主模型和专业模型 MCP。"
